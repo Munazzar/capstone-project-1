@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-storage==2.1.0
+pandas==1.4.1
+google-cloud
+google-cloud-pubsub==2.9.0
+requests==2.27.1
